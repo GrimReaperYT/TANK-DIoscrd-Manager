@@ -1,2 +1,2 @@
-# TANK-DIoscrd-Manager
+# TANK Discord Manager
 Discord bot.
